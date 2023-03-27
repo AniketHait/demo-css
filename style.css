@@ -7,3 +7,25 @@
 .categories-1{
     background-color:brown;
 }
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 1.5;
+}
+
+.button {
+    display: block;
+    width: 100%;
+    padding: 10px 15px;
+    border: 0;
+
+}
+
+
+.button:hover {
+    background: #444;
+}
+
+.bg-dark {
+    background: #333;
+    color: #fff;
+}
